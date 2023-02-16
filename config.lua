@@ -21,7 +21,6 @@ Config.BlacklistedPlates = {
     "BRUTAN",
 }
 
-
 Config.BlacklistedEvents = {
     '211ef2f8-f09c-4582-91d8-087ca2130157',
     '265df2d8-421b-4727-b01d-b92fd6503f5e',

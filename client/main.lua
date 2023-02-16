@@ -22,7 +22,7 @@ AddEventHandler('onResourceStart', function(resourceName)
 end)
 
 RegisterNetEvent('qb-anticheat:client:ToggleDecorate', function(bool)
-  IsDecorating = bool
+    IsDecorating = bool
 end)
 
 RegisterNetEvent('QBCore:Client:OnPlayerLoaded', function()
